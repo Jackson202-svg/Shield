@@ -1,5 +1,5 @@
 # Shield
-![HTML5 Logo](logo/html5.svg)
+<img src="logo/html5.svg" width="50" alt="HTML5 Logo">
 ![CSS Logo](logo/css.svg)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
