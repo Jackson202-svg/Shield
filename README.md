@@ -1,8 +1,15 @@
 # Shield
-<img src="logo/html5.svg" width="50" alt="HTML5 Logo">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+</p>
 
-<img src="logo/css.svg" width="50" alt="CSS Logo">
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,py,zapier&theme=dark" />
+  </a>
+</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
