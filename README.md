@@ -20,5 +20,6 @@
   </a>
 </p>
 
+https://skillicons.dev/icons?i=python
 # explane
 if you want to get badge go to [Simpleicons](https://simpleicons.org/)
